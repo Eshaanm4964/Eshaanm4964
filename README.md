@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Eshaan Michael</h1>
 <p>I'm an aspiring Data Scientist from India.</p>
 <pre>
-🎓 Currently building a strong foundation in **Machine Learning**, **Deep Learning**, and **NLP**  
-📊 Passionate about solving real-world problems with **data-driven insights**  
-📁 Working on projects in **Power BI**, **Python**, **Pandas**, and **Scikit-learn**  
-📚 Exploring **Generative AI**, **LLMs**, and **ML applications in Healthcare & Retail**
+🎓 Currently building a strong foundation in Machine Learning Deep Learning and NLP
+📊 Passionate about solving real-world problems with data-driven insights 
+📁 Working on projects in Power BI, Python,Pandas, and Scikit-learn 
+📚 Exploring Generative AI, LLMs and ML applications in Healthcare & Retail
 </pre>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaan4964&label=Profile%20views&color=0e75b6&style=flat" alt="eshaan4964" /> </p>
 <h2>🚀 Languages and Tools I Use</h2>
