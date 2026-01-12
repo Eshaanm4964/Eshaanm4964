@@ -90,17 +90,61 @@
 
 ## 🚀 Key Projects
 
-### Sentiment Analysis & Text Summarization (NLP)
-**Tech Stack:** Python, FastAPI, Hugging Face, NLTK, spaCy  
-- Real-time sentiment analysis API
-- Extractive & abstractive summarization using Transformers
+### 🔹 SkillSpring – AI Mentor for Students & Interns  
+**Tech Stack:** Python, AI/ML, NLP  
+🔗 https://github.com/Eshaanm4964/SkillSpring-AI-Mentor-for-Students-Interns  
+- AI-powered learning platform offering **personalized mentorship and career guidance**
+- Interactive coding environment with **AI-driven feedback**
+- Integrated **resume-building tools** and structured learning paths
+- Designed to support students and interns with end-to-end AI assistance
 
 ---
 
-### HipHop vs Rock Music Genre Classification
-**Tech Stack:** TensorFlow, Librosa, NumPy  
-- CNN-based audio classification
-- MFCC & spectrogram feature extraction
+### 🔹 SegmentFlow – Customer360 & Recommendation System  
+**Tech Stack:** Python, Machine Learning, Streamlit  
+🔗 https://github.com/Eshaanm4964/SegmentFlow  
+- Built a **Customer360 system** with ML-driven customer segmentation
+- Implemented **clustering and dimensionality reduction** techniques
+- Designed a **hybrid recommendation engine** (collaborative + content-based)
+- Delivered an interactive analytics interface using **Streamlit**
+
+---
+
+### 🔹 Time Series Forecasting for Retail Demand  
+**Tech Stack:** Python, Time Series Models, Forecasting  
+🔗 https://github.com/Eshaanm4964/Time-Series-Forecasting-for-Retail-Demand  
+- Developed **production-ready retail demand forecasting pipelines**
+- Implemented **30-day rolling forecasts**
+- Handled **intermittent demand** using specialized loss functions
+- Built evaluation dashboards to track forecasting accuracy
+
+---
+
+### 🔹 End-to-End Churn Prediction System (MLOps)  
+**Tech Stack:** Python, Machine Learning, MLOps  
+🔗 https://github.com/Eshaanm4964/End-to-End-Churn-Prediction-System  
+- Built a **fully automated churn prediction pipeline**
+- Covered the complete ML lifecycle: ingestion → preprocessing → training → evaluation → deployment
+- Applied **modern MLOps practices** for reliability and scalability
+- Designed for real-world, production-grade deployment scenarios
+
+---
+
+### 🔹 BlinkIt Sales Analytics Dashboard  
+**Tech Stack:** Power BI, Data Analytics  
+🔗 https://github.com/Eshaanm4964/BlinkIt-Dashboard  
+- Designed an interactive **Power BI dashboard** for Blinkit sales analysis
+- Analyzed performance across **outlet types, sizes, item categories, and geographies**
+- Enabled data-driven insights using advanced **filters and visual storytelling**
+
+---
+
+### 🔹 HR Analytics – Employee Attrition Prediction  
+**Tech Stack:** Python, Machine Learning, Data Analytics  
+🔗 https://github.com/Eshaanm4964/HR-Analytics---Predict-Employee-Attrition  
+- Built ML models to **predict employee attrition**
+- Analyzed key organizational factors influencing employee turnover
+- Delivered actionable insights to support **HR decision-making**
 
 ---
 
