@@ -1,32 +1,118 @@
-<h1>Hi 👋, I'm Eshaan Michael</h1>
-<p>I'm an aspiring Data Scientist from India.</p>
-<pre>
-🎓 Currently building a strong foundation in Machine Learning Deep Learning and NLP
-📊 Passionate about solving real-world problems with data-driven insights 
-📁 Working on projects in Power BI, Python,Pandas, and Scikit-learn 
-📚 Exploring Generative AI, LLMs and ML applications in Healthcare & Retail
-</pre>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshaan4964&label=Profile%20views&color=0e75b6&style=flat" alt="eshaan4964" /> </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Eshaan Michael" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Eshaanm4964&show_icons=true&locale=en" alt="Eshaanm4964" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eshaanm4964&" alt="Eshaanm4964" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eshaanm4964&show_icons=true&locale=en&layout=compact" alt="Eshaanm4964" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eshaanm4964" alt="Eshaanm4964" /></a></p>
+# Hi 👋, I'm Eshaan Michael
+
+🎓 **B.Tech CSE (Data Science)** student at **Woxsen University**  
+🚀 Aspiring **AI / Data Scientist** with strong foundations in **Machine Learning, Deep Learning, NLP, and Generative AI**
+
+---
+
+## 🧠 About Me
+- AI & Data Intern with hands-on experience in **NLP, Deep Learning, and backend AI systems**
+- Strong background in **Python, DSA, and performance-oriented ML pipelines**
+- Experienced in building and deploying **FastAPI-based AI services**
+- Actively working with **LLMs, Transformers, and Hugging Face**
+- Interested in applying AI to **real-world systems, content intelligence, and scalable ML solutions**
+
+---
+
+## 🛠️ Skills
+
+### 🔹 Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+---
+
+### 🔹 Core Computer Science
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-000000)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-000000)
+![Complexity](https://img.shields.io/badge/Time%20&%20Space%20Complexity-000000)
+
+---
+
+### 🔹 Machine Learning & AI
+![ML](https://img.shields.io/badge/Machine%20Learning-102230)
+![DL](https://img.shields.io/badge/Deep%20Learning-FF6F00)
+![RL](https://img.shields.io/badge/Reinforcement%20Learning-7952B3)
+
+---
+
+### 🔹 Generative AI & NLP
+![LLM](https://img.shields.io/badge/LLMs-4B0082)
+![Transformers](https://img.shields.io/badge/Transformers-FFBF00)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-0A66C2)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2)
+
+---
+
+### 🔹 Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B)
+
+---
+
+### 🔹 Data Visualization & Analysis
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
+
+---
+
+### 🔹 Data Engineering & Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+
+---
+
+## 💼 Internships
+
+### Research Intern – AI Research Centre  
+**Woxsen University, Hyderabad** | *Jan 2025 – Jun 2025*
+- Developed ML/DL models for **Computer Vision and NLP**
+- Optimized TensorFlow models, improving accuracy by **15%**
+- Contributed to internal research publications
+
+---
+
+### Machine Learning Engineer Intern  
+**Neural Network Labs, Hyderabad** | *Jun 2025 – Aug 2025*
+- Built **Text-to-Speech (TTS)** deep learning models
+- Deployed production-grade APIs using **FastAPI**
+- Improved system scalability and inference efficiency
+
+---
+
+## 🚀 Key Projects
+
+### Sentiment Analysis & Text Summarization (NLP)
+**Tech Stack:** Python, FastAPI, Hugging Face, NLTK, spaCy  
+- Real-time sentiment analysis API
+- Extractive & abstractive summarization using Transformers
+
+---
+
+### HipHop vs Rock Music Genre Classification
+**Tech Stack:** TensorFlow, Librosa, NumPy  
+- CNN-based audio classification
+- MFCC & spectrogram feature extraction
+
+---
+
+## 🏆 Achievements
+- 🥇 Gold Medalist – CSE Topper  
+- 🥇 1st Place – Machine Learning Competition (₹5,000)  
+- 🎓 31% Merit-Based Scholarship  
+- 🏆 Top 10 – Woxsen University Hackathon
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: eshaanm4964@gmail.com  
+- 💻 GitHub: https://github.com/Eshaanm4964  
+- 💼 LinkedIn: https://www.linkedin.com/in/eshaan-michael-856149293
