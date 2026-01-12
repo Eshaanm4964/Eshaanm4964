@@ -25,9 +25,10 @@
 ---
 
 ### 🔹 Core Computer Science
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-000000)
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-000000)
-![Complexity](https://img.shields.io/badge/Time%20&%20Space%20Complexity-000000)
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-000000?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-2C2255?style=for-the-badge)
+![Complexity](https://img.shields.io/badge/Time%20&%20Space%20Complexity-6A1B9A?style=for-the-badge)
+
 
 ---
 
