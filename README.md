@@ -78,12 +78,12 @@
 
 ## 📊 GitHub Stats
 
-![Eshaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eshaanm4964&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Eshaanm4964&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshaanm4964&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshaanm4964&layout=compact&theme=tokyonight" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshaanm4964&theme=tokyonight" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eshaanm4964&theme=tokyonight&hide_border=true)
 
 
 
