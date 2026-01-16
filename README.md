@@ -1,5 +1,9 @@
 # Hi 👋, I'm Eshaan Michael
-🌐 **Portfolio:** https://tranquil-bunny-689fc9.netlify.app
+
+🌐 **Portfolio**  
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-Netlify-00C7B7?logo=netlify&logoColor=white)](https://tranquil-bunny-689fc9.netlify.app)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Eshaanm4964&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/Eshaanm4964?label=Followers&style=flat)
 ![GitHub Stars](https://img.shields.io/github/stars/Eshaanm4964?label=Stars&style=flat)
