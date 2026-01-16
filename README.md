@@ -1,8 +1,5 @@
 # Hi 👋, I'm Eshaan Michael
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eshaanm4964&theme=tokyo-night)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Eshaanm4964&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/Eshaanm4964?label=Followers&style=flat)
 ![GitHub Stars](https://img.shields.io/github/stars/Eshaanm4964?label=Stars&style=flat)
@@ -10,6 +7,15 @@
 
 🎓 **B.Tech CSE (Data Science)** student at **Woxsen University**  
 🚀 Aspiring **AI / Data Scientist** with strong foundations in **Machine Learning, Deep Learning, NLP, and Generative AI**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eshaanm4964&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshaanm4964&theme=tokyo-night" />
+</p>
+
 
 ---
 
