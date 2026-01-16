@@ -76,16 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eshaanm4964&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshaanm4964&layout=compact&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshaanm4964&theme=tokyonight" />
-
-
-
 
 ## 💼 Internships
 
