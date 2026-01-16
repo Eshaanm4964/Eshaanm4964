@@ -1,5 +1,8 @@
 # Hi 👋, I'm Eshaan Michael
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eshaanm4964&theme=tokyo-night)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Eshaanm4964&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/Eshaanm4964?label=Followers&style=flat)
 ![GitHub Stars](https://img.shields.io/github/stars/Eshaanm4964?label=Stars&style=flat)
