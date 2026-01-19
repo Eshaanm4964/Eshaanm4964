@@ -20,6 +20,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshaanm4964&theme=tokyo-night" />
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Eshaanm4964&theme=tokyonight&hide_border=true)
 
 ---
 
